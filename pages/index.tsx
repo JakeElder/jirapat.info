@@ -23,7 +23,7 @@ export default function Home() {
               height="134"
               alt="jirapat.info"
               title="jirapat.info"
-              css={{ marginBottom: 6 }}
+              css={{ marginBottom: 6, position: "relative", left: -5 }}
             />
           </h1>
         </header>
