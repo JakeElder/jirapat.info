@@ -87,8 +87,8 @@ export default function Home() {
           >
             <img
               src="/button-content.svg"
-              width="255"
-              height="80"
+              width="250"
+              height="75"
               alt="American English Phonetics for Thai Learners Course Material"
               css={{ display: "block", margin: "auto", cursor: "pointer" }}
             />
@@ -132,7 +132,7 @@ export default function Home() {
           <img
             src="/copyright.svg"
             width="171"
-            height="33"
+            height="32"
             alt="© 2020 Jirapat Jangjamras"
           />
         </footer>
