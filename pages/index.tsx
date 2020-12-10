@@ -19,8 +19,8 @@ export default function Home() {
           <h1>
             <img
               src="/logo.png"
-              width="279"
-              height="134"
+              width="281"
+              height="135"
               alt="jirapat.info"
               title="jirapat.info"
               css={{ marginBottom: 6, position: "relative", left: -5 }}
@@ -125,12 +125,12 @@ export default function Home() {
           />
           <a
             href="mailto:jirapat@cmu.ac.th"
-            css={{ color: "#557aaf", marginBottom: 9 }}
+            css={{ color: "#557aaf", marginBottom: 7, textDecoration: "none" }}
           >
             jirapat@cmu.ac.th
           </a>
           <img
-            src="/copyright.svg"
+            src="/copyright.png"
             width="171"
             height="32"
             alt="© 2020 Jirapat Jangjamras"
